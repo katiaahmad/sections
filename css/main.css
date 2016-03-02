@@ -13,5 +13,14 @@ a {
   border-style: solid;
   text-decoration: none;
   border-radius: 8px;
-  padding: 0.4rem 0.75rem 0.03rem;
+  padding: 0.4em 0.75em 0.03em;
+}
+
+img {
+  width: 100%;
+}
+
+div {
+  max-width: 25em;
+  display: inline-block;
 }
