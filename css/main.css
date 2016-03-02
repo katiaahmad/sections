@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+a {
+  font-size: 1.125rem;
+  background-color: #fff;
+  color: #000;
+  border-style: solid;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 0.4rem 0.75rem 0.03rem;
+}
